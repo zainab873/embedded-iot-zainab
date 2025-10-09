@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "week1",
+			"path": "../../../../Embeded and iot system/Zainab 1097 Embedded system/week1"
+		},
+		{
+			"name": "esp32-blink",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
