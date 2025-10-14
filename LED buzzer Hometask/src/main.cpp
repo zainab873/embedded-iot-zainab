@@ -1,3 +1,9 @@
+//Zainab Sultan 
+//23-NTU-CS-1097
+// two led and one buzzer attach to esp 32 via breadboard
+
+
+
 #include <Arduino.h>
 
 // ---------------- BUZZER SETUP ----------------
@@ -69,3 +75,4 @@ void loop() {
 
   // When loop() ends, it restarts — both buzzer and LED effects repeat
 }
+
