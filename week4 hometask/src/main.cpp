@@ -3,8 +3,8 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-// Rida Khan
-// 23-NTU-CS-1087
+// Zainab Sultan
+// 23-NTU-CS-1097
 // BSCS - 5B
 
 // ---- OLED setup ----
@@ -86,4 +86,5 @@ void loop() {
   display.drawRect(7, 22, 110, 20, SSD1306_WHITE);
   display.display();
   delay(2000);
+
 }
