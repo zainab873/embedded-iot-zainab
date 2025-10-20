@@ -1,3 +1,9 @@
+// PWM Example – 2 LED Brightness Fade and buzzer Tones
+
+
+//Zainab Sultan 
+// 23-NTU-CS-1097
+// LED ESP32 WORKING CODE
 #include <Arduino.h>
 
 // ---------------- BUZZER SETUP ----------------

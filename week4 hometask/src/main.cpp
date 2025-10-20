@@ -3,8 +3,8 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-// Rida Khan
-// 23-NTU-CS-1087
+// Zainab Sultan
+// 23-NTU-CS-1097
 // BSCS - 5B
 
 // ---- OLED setup ----
