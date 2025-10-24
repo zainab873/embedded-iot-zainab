@@ -32,9 +32,11 @@ Pressing Button2 resets back to Mode 0 (All OFF).
 TASK A -- SCREENSHOT
 ![WhatsApp Image 2025-10-24 at 21 17 38_52c1430c](https://github.com/user-attachments/assets/cc587e04-9d1a-4a27-8093-05f4af549225)
 
+![WhatsApp Image 2025-10-24 at 21 05 57_ee1a9d2f](https://github.com/user-attachments/assets/463a33f6-0649-4555-9842-4094fd138783)
+
 
 ************************************************************************************************
-************************************************************************************************
+******************************************   TASK B   ******************************************
 ************************************************************************************************
 TASK B - WOKWI link
 
@@ -73,6 +75,8 @@ PWM/tone() for buzzer audio
 TASK B -- SCREENSHOT
 
 ![WhatsApp Image 2025-10-24 at 21 37 40_14370c0b](https://github.com/user-attachments/assets/64db5c2f-4eb6-407d-bf54-3f920b952318)
+
+
 
 
 
