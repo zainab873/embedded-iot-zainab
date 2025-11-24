@@ -75,4 +75,8 @@ void loop() {
   }
 
   // When loop() ends, it restarts — both buzzer and LED effects repeat
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 79fa3e23192ff67be6f0047a0c6c0bc13d5ab844
